@@ -1,4 +1,4 @@
-# Live Demo 1 - Phase 2: Minimal Maven project by hand
+# Live Demo 1 - Phase 3: mvn archetype:generate
 
 This project was created by:
 

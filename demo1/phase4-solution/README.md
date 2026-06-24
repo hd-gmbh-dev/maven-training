@@ -1,4 +1,4 @@
-# Live Demo 1 - Phase 2: Minimal Maven project by hand
+# Live Demo 1 - Phase 4: start.spring.io
 
 This project was created by https://start.spring.io with the following values:
 
