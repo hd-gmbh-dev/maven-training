@@ -3,6 +3,7 @@
 This project was created by:
 
 ```shell
+$ cd ..
 $ mvn archetype:generate -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.5
 ```
 ```terminaloutput
@@ -17,5 +18,6 @@ Define value for property 'package' com.example:
 ## Compile and run:
 
 ```shell
+$ cd ../phase3
 $ mvn package && java -cp target/phase3-1.0-SNAPSHOT.jar com.example.App
 ```
